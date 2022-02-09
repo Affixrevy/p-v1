@@ -1,0 +1,16 @@
+portfolioitems:
+  # portfolio category
+  - title: Video Projects
+    portfolioitem:
+      - name: Scona Initiative 2020
+        image: '/images/portfolio/code.jpg'
+        link: https://www.youtube.com/watch?v=cQU7MKHSmrc
+        description: 'The annual Scona Initiative is where the Strathcona High School community comes together as one and raises funds and brings awareness to a chosen charity. A team that I led created many videos to help the cause that was ultimately cut off due to COVID-19.'
+        tags:
+          - Video
+          - Final Cut
+        status: 'Finished'
+        start: '2019'
+        end: '2020'
+  - title: Live Production
+  # portfolio category

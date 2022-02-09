@@ -1,0 +1,23 @@
+  [[main]]
+  name = "About"
+  weight = 100
+  identifier = "about"
+  url = "/"
+
+  [[main]]
+  name = "Portfolio"
+  weight = 200
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+  [[main]]
+  name = "Contact"
+  weight = 300
+  identifier = "contact"
+  url = "/contact/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 1
+  identifier = "imprint"
+  url = "/imprint/"
