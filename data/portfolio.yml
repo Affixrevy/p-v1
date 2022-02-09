@@ -2,6 +2,17 @@ portfolioitems:
   # portfolio category
   - title: Video Projects
     portfolioitem:
+      - name: Strathcona High School Grad Recap
+        image: '/images/portfolio/code.jpg'
+        link: https://youtu.be/KTMHDlOr62g 
+        description: 'This is a video I did as volunteer work for Strathcona High Schools graduation in 2021. A significant amount of the footage was filmed by me from when I was a student at the school as well as some by other members in the community.'
+        tags:
+          - Video
+          - Final Cut
+          - Graphics
+        status: 'Finished'
+        start: '2018'
+        end: '2021'
       - name: Scona Initiative 2020
         image: '/images/portfolio/code.jpg'
         link: https://www.youtube.com/watch?v=cQU7MKHSmrc
