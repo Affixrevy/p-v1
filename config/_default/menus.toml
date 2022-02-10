@@ -11,8 +11,14 @@
   url = "/portfolio/"
 
   [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[main]]
   name = "Contact"
-  weight = 300
+  weight = 400
   identifier = "contact"
   url = "/contact/"
 

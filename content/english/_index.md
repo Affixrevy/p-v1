@@ -27,12 +27,12 @@ Don't forget to check the README.md file!
 
 Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
 -->
-Hi I'm Arthur!
+# Hi I'm Arthur!
 
-Velit pariatur commodo esse ipsum voluptate incididunt id. Adipisicing ipsum adipisicing irure labore aliquip. Exercitation consectetur qui tempor ullamco occaecat elit minim velit. Sit anim do aliquip nulla irure labore.
+#### I am currently a Computing Science student at the University of Toronto. I am very passionate about coding, design, videography, and photography.
 
-Ipsum cillum veniam magna sint cupidatat eu. Voluptate occaecat incididunt elit incididunt dolor enim. Do elit aliqua sunt ex nisi excepteur ex in dolore est sunt cillum. Adipisicing ad aliquip magna anim. Ipsum ad consectetur commodo quis.
+- Navigate to my [portfolio](/portfolio/) to see some of my video works.
+- Browse some of my photography in the [gallery]() [To be added later]
+- View some of my [coding projects]() [To be added later]
 
-Lorem Lorem occaecat tempor occaecat nostrud aute adipisicing commodo consequat. Aliquip incididunt adipisicing nisi irure proident tempor id eu in exercitation sit excepteur elit consequat. Aliqua aliquip qui proident occaecat aute dolor nisi consequat aute do sint quis aliquip labore.
-
-Irure ea fugiat anim ut ipsum qui deserunt cupidatat cillum duis nisi. Consectetur culpa id qui amet cupidatat consectetur exercitation consequat pariatur nostrud mollit enim do. Ex excepteur amet ullamco culpa deserunt laboris. Labore eiusmod ad nostrud consectetur velit laborum tempor ut do.
+## Some of my work:
