@@ -1,7 +1,7 @@
 +++
 author = "Arthur Gao"
 title = "2021 Strathcona High School Grad Video"
-date = "2019-03-05"
+date = "2021-07-01"
 description = "A recap of the three years of high school of the class of 2021"
 tags = [
     "video",

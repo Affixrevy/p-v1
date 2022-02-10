@@ -13,8 +13,8 @@
   [[main]]
   name = "Posts"
   weight = 200
-  identifier = "posts"
-  url = "/posts/"
+  identifier = "post"
+  url = "/post/"
 
   [[main]]
   name = "Contact"
