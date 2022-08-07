@@ -29,10 +29,12 @@ Remember that you can also specify a section header for the posts below by confi
 -->
 # Hi I'm Arthur!
 
-#### I am currently a Computing Science student at the University of Toronto. I am very passionate about coding, design, videography, and photography.
+#### I am currently a Computer Science student at the University of Toronto St. George Campus. I am very passionate about coding, design, videography, and photography.
 
 - Navigate to my [portfolio](/portfolio/) to see some of my video works.
 - Browse some of my photography in the [gallery]() [To be added later]
-- View some of my [coding projects]() [To be added later]
+- View some of my [coding projects](/coding/)
+- Get my [CV](./Resume%20Aug%202022%20V1.pdf) [To be added later]
+<!-- TODO: link file here-->
 
 ## Some of my work:

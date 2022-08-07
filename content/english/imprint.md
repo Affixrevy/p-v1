@@ -1,8 +1,12 @@
 # Legal Disclosure
 
-Information in accordance with the applicable law
+Copyright 2022 - Arthur Gao
 
-Jane Doe\
-Anatole Street 10\
-2016 GoHugo\
-Germany
+arthurgao.ca
+
+Contact me at:
+- mail at arthurgao dot ca
+
+Toronto, ON
+
+This website was built on the [Hugo Framework]() using the [anatole]() theme.
