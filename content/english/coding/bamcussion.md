@@ -4,7 +4,7 @@ title = "National Stiltwalkers of Canada: Bamcussion"
 date = "2021-08-23"
 description = "Bamcussion"
 tags = [
-    "video",
+    "video", "coding"
 ]
 +++
 
