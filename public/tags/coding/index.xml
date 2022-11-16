@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on Arthur Gao</title>
+    <link>https://example.com/tags/coding/</link>
+    <description>Recent content in coding on Arthur Gao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kard</title>
+      <link>https://example.com/coding/kard/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/coding/kard/</guid>
+      
+        <description>The kard project gave me an opportunity to further developed my leadership skills.</description>
+      
+    </item>
+    
+    <item>
+      <title>National Stiltwalkers of Canada: Bamcussion</title>
+      <link>https://example.com/coding/bamcussion/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/coding/bamcussion/</guid>
+      
+        <description>Bamcussion presented a unique challenge to me. I had the opportunity to meld my video expertise with my coding experience developing a live rendered background for a greenscreen production.</description>
+      
+    </item>
+    
+    <item>
+      <title>ARC180 Projects</title>
+      <link>https://example.com/coding/architecture_180/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/coding/architecture_180/</guid>
+      
+        <description>The ARC180 course allowed me to view computation and its uses in a new light.</description>
+      
+    </item>
+    
+    <item>
+      <title>24 Game</title>
+      <link>https://example.com/coding/twenty-four/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/coding/twenty-four/</guid>
+      
+        <description>To make a long story short, my family has a family loves road trips and one of the things we love to do on these trips is a game called twenty-four.</description>
+      
+    </item>
+    
+    <item>
+      <title>Scona Scoreboard Software</title>
+      <link>https://example.com/coding/scoreboard/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/coding/scoreboard/</guid>
+      
+        <description>The Scona Scoreboard Software is a suite of software that connected the existing (name) scoreboard in the gymnasium to a score bug that we overlayed on the live broadcast.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
