@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>design on Arthur Gao</title>
-    <link>https://example.com/tags/design/</link>
+    <link>https://arthurgao.ca/tags/design/</link>
     <description>Recent content in design on Arthur Gao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurgao.ca/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARC180 Projects</title>
-      <link>https://example.com/coding/architecture_180/</link>
+      <link>https://arthurgao.ca/coding/architecture_180/</link>
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/coding/architecture_180/</guid>
+      <guid>https://arthurgao.ca/coding/architecture_180/</guid>
       
-        <description>The ARC180 course allowed me to view computation and its uses in a new light.</description>
+        <description>Architecture School Projects</description>
       
     </item>
     
